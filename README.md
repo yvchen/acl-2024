@@ -1,6 +1,6 @@
-# EMNLP 2022 official website
+# ACL 2024 official website
 
-This is the code for the official website for the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), based on the code for [NAACL-HLT 2021](https://github.com/naacl-org/naacl-2021-website/), the following is the configuration details.
+This is the code for the official website for the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024), based on the code for [NAACL-HLT 2021](https://github.com/naacl-org/naacl-2021-website/), the following is the configuration details.
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
