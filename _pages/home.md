@@ -1,58 +1,21 @@
 ---
-title: "The 2022 Conference on Empirical Methods in Natural Language Processing"
+title: "The 62nd Annual Meeting of the Association for Computational Linguistics"
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/abu_dhabi/Early morning aerial shot of Qasr Al Watan.JPEG.jpg"
-  caption: 'Photo by <a href="https://unsplash.com/@manuel_arroyo25">Manuel Arroyo</a> on <a href="http://www.unsplash.com">Unsplash</a>'
-excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
+  overlay_image: "/assets/images/bangkok/bangkok.jpg"
+  caption: 'Photo by <a href="https://unsplash.com/@kanapppol">Kanapol Vorapoo</a> on <a href="http://www.unsplash.com">Unsplash</a>'
+excerpt: "Bangkok, Thailand<br>August 12&ndash;17, 2024"
 ---
 
 ## News
-[**Proceedings of EMNLP 2022.**](https://aclanthology.org/events/emnlp-2022/)
-{: .text-center .notice--info}
 
-[**Talk video by Gary Marcus.**](https://www.dropbox.com/s/816jhaqp9nqcnry/EMNLP%20odf%20video.mp4?dl=0)
-{: .text-center .notice--info}
-
-[**In-Person Conference Attendee Poster and Demo Session Assignments (Dec 11).**](https://drive.google.com/file/d/1acA7HrKL4_AAOP_MHG5kheA_olWwyua1/view)
-{: .text-center .notice--info}
-
-[**Directions to the Social Event (Dec 10).**](https://twitter.com/emnlpmeeting/status/1601534679815004166)
-{: .text-center .notice--info}
-
-[**In-Person Conference Attendee Poster and Demo Session Assignments (Dec 10).**](https://drive.google.com/file/d/1yxpkSKDiQ2jYnT4oZRfA6DWFJYaRSjwm/view)
+**The official ACL 2024 website is launched.**
 {: .text-center .notice--info}
 
 
 
-[**Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing.**](https://preview.aclanthology.org/emnlp-22-ingestion/volumes/2022.emnlp-main/)
-{: .text-center .notice--info}
-
-[**Industry session papers, oral presentations and posters**](/downloads/Submission_Information.xlsx) is now available.
-{: .text-center .notice--info}
-
-[**COVID-19 content for handbook/website**](https://docs.google.com/document/d/1eGICtttSKN6u50CiN3e8J37xRCTLWbL0zTkGg0he3H8/edit?usp=sharing) is now available.
-{: .text-center .notice--info}
-
-**The early registration deadline has been extended to November 10.**
-{: .text-center .notice--info}
-
-[**List of accepted work**](/downloads/Accepted-Papers-20221122.xls) is now available (update CL and TACL, click for detail).
-{: .text-center .notice--info}
-
-<div class="text-center notice--danger">
-<p><a href="https://softconf.com/emnlp2022/industry-track"><strong>Industry Track submission link</strong></a> is now available.
-</p>
-</div>
-
-[**Main Conference Papers submission link**](https://softconf.com/emnlp2022/papers/) is now available.
-{: .text-center .notice--info}
-
-
-## LASTEST BLOG POSTS 
-
-<style>
+<!--style>
 /*.news-table { font-size: .9em; table-layout: fixed; text-align: left; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 42em; }*/
 .news-table { font-size: .9em; table-layout: fixed;}
@@ -69,10 +32,10 @@ excerpt: "Abu Dhabi<br>December 7&ndash;11, 2022"
 | Aug 15, 2022 | [Short Pieces on Reviewing](/blog/Short-Pieces-on-Reviwing)
 {: .news-table}
 
-[Older BLOG POSTS](/blog/){: .btn .btn--info}
+[LOG POSTS](/blog/){: .btn .btn--info}
 {: .text-center}
 
-<!-- <div class="text-center notice--danger">
+<div class="text-center notice--danger">
 <p>Please fill out the short <a href="https://forms.office.com/r/Ww583kAMf7"><strong>post-conference survey</strong></a> to help us better organize future conferences.</p>
 <p style="font-size: 80%">The survey takes ~4 minutes to complete. Note that there will be no email receipt once you hit submit, and please only submit once.
 Aggregate statistics for non-text answers may be made publicly available. Answers to this survey will remain anonymous.
@@ -137,7 +100,7 @@ The [**Conference Program Schedule**](/program/) is now online.
 .dates-table del { color: #888; }
 </style>
 
-| Conference date (online & offline) | Wednesday – Sunday | December 7 – 11, 2022 |
+| Conference date | Monday – Saturday | August 12 – 17, 2024 |
 {: .dates-table}
 
 <!--
@@ -146,4 +109,4 @@ The [**Conference Program Schedule**](/program/) is now online.
 
 ## Welcome!
 
-EMNLP 2022 will take place in Abu Dhabi from **December 7th to December 11th, 2022**. And it will be held in hybrid mode, both online and offline.
+ACL 2024 will take place in Bangkok, Thailand from **August 12th to 17th, 2024**.
